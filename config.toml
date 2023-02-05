@@ -47,7 +47,7 @@ page = [
 [params]
 title = "Corbin Staaben"
 description = "Random thoughts and projects I'm working on."
-favicon = "/fav.png"
+favicon = "/images/gopher_favicon.png"
 useBootstrapCDN = false
 animate = false
 
@@ -95,7 +95,7 @@ animate = false
   subtitle = "I build software and design systems."
   content = "A constantly learning engineer. I write software that prioritizes maintainability and TDD. I dabble in DevOps and game development."
   # image = "/images/software_engineer_1.svg"
-  image = "/images/attributed_developer.svg"
+  image = "/images/gopher_doodle.svg"
 
 
     [params.hero.button]
